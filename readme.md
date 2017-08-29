@@ -1,6 +1,8 @@
 # some experiments around jenkins scripting
 
-# see jenkins-scripting-library and jenkins-scripting-job
+#### related repos: [jenkins-scripting-library](https://github.com/cbuschka/jenkins-scripting-library) and [jenkins-scripting-job](https://github.com/cbuschka/jenkins-scripting-job)
+
+## Start jenkins
 
 ```
 jenkins-ctrl.sh build run
